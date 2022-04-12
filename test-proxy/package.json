@@ -2,11 +2,8 @@
   "name": "local-proxy-server",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/wataru063/local-proxy-server.git",
-  "author": "wataru063 <skgch0702@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.3",
     "http-proxy": "^1.18.1"
   },
   "scripts": {
